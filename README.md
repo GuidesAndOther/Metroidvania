@@ -1,2 +1,2 @@
 # Metroidvania
-All scripts to my metroidvania tutorial
+Tutorial to all my metroidvania code
